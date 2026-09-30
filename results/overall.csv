@@ -1,0 +1,2 @@
+sessions,viewed_item,added_to_cart,began_checkout,purchased,pct_session_to_view,pct_view_to_cart,pct_cart_to_checkout,pct_checkout_to_purchase,pct_session_to_purchase,purchases_without_checkout_event
+360129,77020,15188,11106,4033,21.39,19.72,73.12,36.31,1.12,0

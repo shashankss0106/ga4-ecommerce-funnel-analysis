@@ -1,0 +1,10 @@
+dimension,segment,sessions,viewed_item,added_to_cart,began_checkout,purchased,pct_session_to_view,pct_view_to_cart,pct_cart_to_checkout,pct_checkout_to_purchase,pct_session_to_purchase
+Channel,Direct,249198,48091,9649,6586,2581,19.3,20.06,68.26,39.19,1.04
+Channel,Organic Search,103062,27145,5221,4308,1390,26.34,19.23,82.51,32.27,1.35
+Channel,Paid Search,7672,1656,271,180,42,21.58,16.36,66.42,23.33,0.55
+Channel,Email,197,128,47,32,20,64.97,36.72,68.09,62.5,10.15
+Device,desktop,208942,44819,8790,6392,2293,21.45,19.61,72.72,35.87,1.1
+Device,mobile,143185,30501,6077,4474,1658,21.3,19.92,73.62,37.06,1.16
+Device,tablet,8002,1700,321,240,82,21.24,18.88,74.77,34.17,1.02
+User type,New,261238,52171,8853,5974,1503,19.97,16.97,67.48,25.16,0.58
+User type,Returning,98891,24849,6335,5132,2530,25.13,25.49,81.01,49.3,2.56
